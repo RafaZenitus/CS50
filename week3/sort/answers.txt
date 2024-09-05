@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Mainly because in the best case scenario where the array has already sorted the program was really fast, and when the array is random the program took the longest to sort
+
+sort2 uses: Merge Sort
+
+How do you know?: It was really fast to sort in the scenarios
+
+sort3 uses: Selection Sort
+
+How do you know?: It took the longest to sort, and by running both the random, reversed and sorted programs it took almost the same time witch made me think that it might be in O an Omega of n^2
